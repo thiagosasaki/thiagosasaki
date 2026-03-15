@@ -5,7 +5,6 @@
 <p align="center">
   Hi there, my name is Thiago, better known by my surname <b>Sasaki</b>! 😄
   <br><br>I am a Computer Engineer, currently working as .NET back-end developer in Brazil.
-  <br><br>Constant evolution and resilience always.
 </p>
 
 <h2>
